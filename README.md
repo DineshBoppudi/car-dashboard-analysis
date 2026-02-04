@@ -22,6 +22,7 @@ The dataset includes car brand, model, year, fuel type, transmission, mileage, e
 
 ## 📂 Files in this Repository
 - Car Dashboard Analaysis.pbix  
-- car_price_prediction_.csv  
+- car_price_prediction_.csv
+- Car Dashboard Analaysis.pdf
 
 
